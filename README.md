@@ -36,5 +36,5 @@ python main.py
 The PPO agent learns optimal migration decisions to reduce delay and improve resource utilization in edge computing environments.
 
 ## Author
-AKSHINTLA PADMAJA DEEPIKA
+AKSHINTLA PADMAJA DEEPIKA,
 BHUMENI ROSHINI
